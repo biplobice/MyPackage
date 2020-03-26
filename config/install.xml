@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<concrete5-cif version="1.0">
+    <blocktypes>
+        <blocktype handle="my_block" package="my_package"/>
+    </blocktypes>
+    <singlepages>
+        <!--Backend settings-->
+        <page name="MyPackage"
+              path="/dashboard/my_package"
+              filename=""
+              pagetype=""
+              description=""
+              package="my_package">
+        </page>
+    </singlepages>
+</concrete5-cif>
